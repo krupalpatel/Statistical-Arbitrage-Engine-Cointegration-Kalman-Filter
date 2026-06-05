@@ -11,8 +11,6 @@ This is:
 
 * Cointegration testing
 
-* Kalman dynamic hedge ratio
-
 * Z-score signal engine
 
 * Risk management system
