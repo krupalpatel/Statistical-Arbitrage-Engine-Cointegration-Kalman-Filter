@@ -31,6 +31,6 @@ This is:
 9. Risk Control Layer
 10. Walk-Forward Backtest
 11. Performance Analytics
-12. Stress Period Analysis
+
 
 
