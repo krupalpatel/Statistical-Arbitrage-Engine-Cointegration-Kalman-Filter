@@ -1,7 +1,7 @@
 # Statistical-Arbitrage-Engine-Cointegration-Kalman-Filter
 Statistical Arbitrage Engine Using Cointegration & Kalman Filter
 
-• Developed statistical arbitrage engine using Engle-Granger cointegration and dynamic spread modeling on French equities; implemented signal generation, cost-adjusted backtesting, and risk-controlled execution framework.
+## Developed statistical arbitrage engine using Engle-Granger cointegration and dynamic spread modeling on French equities; implemented signal generation, cost-adjusted backtesting, and risk-controlled execution framework.
 
 This is:
 
